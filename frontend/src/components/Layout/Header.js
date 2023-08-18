@@ -1,6 +1,9 @@
-import React from "react";
-import { NavLink, Link } from "react-router-dom";
-import { GiShoppingBag } from "react-icons/gi";
+import React from 'react';
+
+import {
+  Link,
+  NavLink,
+} from 'react-router-dom';
 
 const Header = () => {
   return (
