@@ -10,7 +10,7 @@ import Layout from '../components/Layout/Layout';
 
 const Contact = () => {
   return (
-    <Layout>
+    <Layout title={"Contact us"}>
       <div className="row contactus ">
         <div className="col-md-6 ">
           <img
